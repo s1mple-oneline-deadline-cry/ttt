@@ -6,4 +6,4 @@
 数据包括
 train_public.csv,train_internet.csv,test_public.csv,submit_example.csv
 
-train_internet太大，无法上传
+train_internet.csv太大，无法上传
